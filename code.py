@@ -1,4 +1,4 @@
-import os
+import sys
 import time
 import torch
 from collections import OrderedDict
@@ -7,7 +7,6 @@ from torch.nn.parallel import DataParallel, DistributedDataParallel
 
 from basicsr.models import lr_scheduler as lr_scheduler
 from basicsr.utils import get_root_logger
-from basicsr.utils.dist_util import master_only
 
 
 class BaseModel():
