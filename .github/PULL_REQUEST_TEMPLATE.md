@@ -11,6 +11,6 @@ Please put an `x` in the applicable boxes:
 
 ## Pre-Submission Checklist
 Please confirm the following before submitting:
-- [ ] I have read the [CONTRIBUTING](https://github.com/callous-youth/BOAT/blob/main/CONTRIBUTING.md) guide.
+- [ ] I have read the [CONTRIBUTING](https://github.com/QHofmann/test2/blob/main/CONTRIBUTING.md) guide.
 - [ ] The code has been formatted using `black`.
 - [ ] (If applicable) I have updated the relevant Sphinx documentation.
